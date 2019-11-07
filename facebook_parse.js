@@ -344,3 +344,22 @@ advertisers = advertisers_dict["custom_audiences"]
 
 console.log(interests)
 console.log(advertisers)
+
+const fs = require('fs')
+
+fs.writeFile('facebook_ads.csv', interests, (err) => {
+
+    // In case of a error throw err.
+    if (err) throw err;
+})
+
+fs.writeFile('facebook_advertisers.csv', advertisers, (err) => {
+
+    // In case of a error throw err.
+    if (err) throw err;
+})
+
+
+'''
+{'Arts & Culture': 0, 'Crafts': 0, 'Photography': 0, 'Dance & Theatre': 0, 'Literature': 0, 'Museums & Exhibits': 0, 'Music': 0, 'Film': 0, 'Health & Medicine': 0, 'Family & Children': 0, 'Food & Drink': 0, 'Entertainment': 0, 'Pop Culture': 0, 'Sports': 0, 'Swimming & Water Sports': 0, 'Fitness': 0, 'Golf': 0, 'Basketball': 0, 'Other': 0, 'Yoga': 0, 'Cycling': 0, 'Fighting & Martial Arts': 0, 'Tennis': 0, 'Baseball': 0, 'Soccer': 0, 'Running & Walking': 0, 'Football': 0, 'Nightlife': 0, 'Live Shows': 0, 'Shopping': 0, 'Attractions & Local': 0, 'Movements & Ideologies': 0, 'LGBT': 0, 'Religion & Spirituality': 0, 'Animals & Pets': 0, 'Politics': 0, 'Charity & Non-Profits': 0, 'Businesses & Industry': 0, 'Beauty & Fashion': 0, 'Science & Technology': 0}
+'''
