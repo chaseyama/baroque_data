@@ -195,3 +195,11 @@ for (var i = 0; i < ad_dict.length; i++) {
 }
 
 console.log(interests)
+
+const fs = require('fs')
+
+fs.writeFile('twitter_engagements.csv', interests, (err) => {
+
+    // In case of a error throw err.
+    if (err) throw err;
+})
