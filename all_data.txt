@@ -1,0 +1,11 @@
+- categories: {'Arts': 71, 'Business': 38, 'Computers': 26, 'Games': 11, 'Health': 24, 'Home': 33, 'Recreation': 70, 'Science': 21, 'Society': 34, 'Sports': 32}
+    - actual interests per category (cloud of words for a category):
+        {'Arts': ['Anime movies', 'Castle (TV series)', 'Comedy movies', 'Empire (film magazine)', 'Shopping and fashion', 'Animation', 'Music news and general info'], 'Business': ['Online shopping'], 'Computers': ['Bluetooth', 'Internet meme', 'IPhone', 'Meme', 'Tech news', 'Computer reviews'], 'Games': ['Computer gaming', 'Online gaming', 'Gaming news and general info'], 'Health': [], 'Home': ['Shopping'], 'Recreation': ['Northern California'], 'Science': ['California', 'Cosmos', 'Evolutionary psychology', 'Memetics', 'University of Southern California', 'Space and astronomy', 'Science news'], 'Society': ['Hippie', 'Nancy Pelosi', 'San Francisco'], 'Sports': ['Rhett and Link', 'San Francisco Bay Area', 'Table tennis', 'Sports news']}
+    - actual interests per category, per social media:
+        twitter:  {'Arts': ['Animation', 'Music news and general info'], 'Business': [], 'Computers': ['Tech news', 'Computer reviews'], 'Games': ['Gaming news and general info', 'Computer gaming', 'Online gaming'], 'Health': [], 'Home': [], 'Recreation': [], 'Science': ['Space and astronomy', 'Science news'], 'Society': [], 'Sports': ['Sports news']}
+        facebook: {'Arts': ['Anime movies', 'Castle (TV series)', 'Comedy movies', 'Empire (film magazine)', 'Shopping and fashion'], 'Business': ['Online shopping'], 'Computers': ['Bluetooth', 'Internet meme', 'IPhone', 'Meme'], 'Games': [], 'Health': [], 'Home': ['Shopping'], 'Recreation': ['Northern California'], 'Science': ['California', 'Cosmos', 'Evolutionary psychology', 'Memetics', 'University of Southern California'], 'Society': ['Hippie', 'Nancy Pelosi', 'San Francisco'], 'Sports': ['Rhett and Link', 'San Francisco Bay Area', 'Table tennis']}
+    - total number of keywords: 360
+
+- price of data: 0.6722
+    - price per category:
+        {'Arts': 0.1207, 'Business': 0.0836, 'Computers': 0.0936, 'Games': 0.0759, 'Health': 0.0288, 'Home': 0.0363, 'Recreation': 0.084, 'Science': 0.0315, 'Society': 0.0442, 'Sports': 0.0736}
