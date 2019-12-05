@@ -1,4 +1,10 @@
-        string[] categories = new string[]
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		string[] categories = new string[]
             {"Arts", "Business", "Computers", "Games", "Health", "Home", "Recreation",
             "Science", "Society", "Sports"};
 
@@ -37,3 +43,6 @@
         Console.WriteLine(prices[2]);
         Console.WriteLine(facebook_interests[0][0]);
         Console.WriteLine(categories[3]);
+
+	}
+}

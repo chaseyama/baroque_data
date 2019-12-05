@@ -1,0 +1,11 @@
+/Users/william/Documents/10baroque_data/cs_test/bin/Debug/netcoreapp3.1/10baroque_data
+/Users/william/Documents/10baroque_data/cs_test/bin/Debug/netcoreapp3.1/10baroque_data.deps.json
+/Users/william/Documents/10baroque_data/cs_test/bin/Debug/netcoreapp3.1/10baroque_data.runtimeconfig.json
+/Users/william/Documents/10baroque_data/cs_test/bin/Debug/netcoreapp3.1/10baroque_data.runtimeconfig.dev.json
+/Users/william/Documents/10baroque_data/cs_test/bin/Debug/netcoreapp3.1/10baroque_data.dll
+/Users/william/Documents/10baroque_data/cs_test/bin/Debug/netcoreapp3.1/10baroque_data.pdb
+/Users/william/Documents/10baroque_data/cs_test/obj/Debug/netcoreapp3.1/10baroque_data.csprojAssemblyReference.cache
+/Users/william/Documents/10baroque_data/cs_test/obj/Debug/netcoreapp3.1/10baroque_data.AssemblyInfoInputs.cache
+/Users/william/Documents/10baroque_data/cs_test/obj/Debug/netcoreapp3.1/10baroque_data.AssemblyInfo.cs
+/Users/william/Documents/10baroque_data/cs_test/obj/Debug/netcoreapp3.1/10baroque_data.dll
+/Users/william/Documents/10baroque_data/cs_test/obj/Debug/netcoreapp3.1/10baroque_data.pdb

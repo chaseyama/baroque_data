@@ -1,0 +1,6 @@
+/Users/william/Documents/10 baroque_data/obj/Debug/netcoreapp3.1/10 baroque_data.csprojAssemblyReference.cache
+/Users/william/Documents/10 baroque_data/obj/Debug/netcoreapp3.1/10 baroque_data.AssemblyInfoInputs.cache
+/Users/william/Documents/10 baroque_data/obj/Debug/netcoreapp3.1/10 baroque_data.AssemblyInfo.cs
+/Users/william/Documents/10baroque_data/obj/Debug/netcoreapp3.1/10 baroque_data.csprojAssemblyReference.cache
+/Users/william/Documents/10baroque_data/obj/Debug/netcoreapp3.1/10 baroque_data.AssemblyInfoInputs.cache
+/Users/william/Documents/10baroque_data/obj/Debug/netcoreapp3.1/10 baroque_data.AssemblyInfo.cs
